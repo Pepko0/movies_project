@@ -12,5 +12,6 @@ export default styled.input`
 
   @media(max-width: ${({theme}) => theme.media.tablet}){
     margin: auto;
+    width: 100%;
   }
 `;

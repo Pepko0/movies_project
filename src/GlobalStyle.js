@@ -15,7 +15,7 @@ html {
         font-family: Arial;
 
         @media(max-width: ${({ theme }) => theme.media.tablet}){
-          padding:5px;
+         
         }
       }
 `;
